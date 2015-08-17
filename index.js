@@ -1,2 +1,2 @@
-require('./dist/tc-angular-chartjs.js');
+require('./dist/tc-angular-chartjs');
 module.exports = 'tc.chartjs';
